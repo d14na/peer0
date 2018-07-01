@@ -5,7 +5,7 @@
 [![Downloads](https://img.shields.io/npm/dm/peer0.svg)](https://www.npmjs.org/package/peer0)
 [![NPM](https://img.shields.io/npm/v/peer0.svg)](https://www.npmjs.org/package/peer0)
 
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard) [![Greenkeeper badge](https://badges.greenkeeper.io/d14na/peer0.svg)](https://greenkeeper.io/)
 
 ZeroNet-related functions implemented in pure JavaScript.
 
