@@ -1,6 +1,8 @@
 # Peer Zero
 
 [![Build Status](https://travis-ci.org/d14na/peer0.png?branch=master)](https://travis-ci.org/d14na/peer0)
+[![codecov](https://codecov.io/gh/d14na/peer0/branch/master/graph/badge.svg)](https://codecov.io/gh/d14na/peer0)
+[![Downloads](https://img.shields.io/npm/dm/peer0.svg)](https://www.npmjs.org/package/peer0)
 [![NPM](https://img.shields.io/npm/v/peer0.svg)](https://www.npmjs.org/package/peer0)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
