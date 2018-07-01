@@ -1,6 +1,6 @@
 {
   "name": "peer0",
-  "version": "18.6.30-d",
+  "version": "18.6.31",
   "description": "ZeroNet-related functions implemented in pure JavaScript.",
   "main": "index.js",
   "repository": "git@github.com:d14na/peer0.git",
