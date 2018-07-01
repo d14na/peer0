@@ -13,11 +13,11 @@ ZeroNet-related functions implemented in pure JavaScript.
 
     const file = await peer0.getFile(ziteAddr, filePath)
 
-## getZiteInfo
+## getInfo
 
 > Returns a promise for a summary of information *(read from content.json)* for the requested zite.
 
-    const ziteInfo = await peer0.getZiteInfo(ziteAddr)
+    const info = await peer0.getInfo(ziteAddr)
 
 1. Title *(required)*
 2. Description *(required)*
