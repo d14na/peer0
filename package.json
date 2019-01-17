@@ -24,7 +24,7 @@
     "net": "react-native-tcp"
   },
   "dependencies": {
-    "node-libs-browser": "^2.1.0",
+    "node-libs-browser": "^2.2.0",
     "zeronet-msgpack": "^3.6.0"
   }
 }
